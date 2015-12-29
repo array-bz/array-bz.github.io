@@ -12,6 +12,9 @@ $(document).ready(function () {
 
 array_bz = {
   init: function () {
+    this.readables();
+  },
+  readables: function () {
     localStorage.setItem(window.location, "read");
 
     $("a.readable").each(function() {

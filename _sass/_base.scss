@@ -68,7 +68,7 @@ figcaption {
 * Lists
 */
 ul, ol {
-  margin-left: $spacing-unit;
+  margin-left: 2* $spacing-unit;
 }
 
 li {
@@ -112,6 +112,8 @@ h2 {
 a {
   color: $link-color;
   text-decoration: none;
+  word-wrap: break-word;
+  white-space: wrap;
 }
 
 
