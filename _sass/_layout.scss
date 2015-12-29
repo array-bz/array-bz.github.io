@@ -26,6 +26,17 @@ article.post {
   @include media-query($on-palm) {
     margin: 0;
   }
+
+  footer {
+    time {
+      display: inline-block;
+      margin-top: 2 * $spacing-unit;
+      padding-top: $spacing-unit;
+      border-top: dashed 1px $text-color;
+      text-transform: uppercase;
+      font-size: 0.85em;
+    }
+  }
 }
 
 footer.site {
