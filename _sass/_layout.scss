@@ -15,6 +15,10 @@ header.site {
     font-weight: 300;
   }
 
+  a {
+    color: $text-color;
+  }
+
   @include media-query($on-palm) {
     text-align: center;
   }

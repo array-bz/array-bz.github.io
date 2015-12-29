@@ -2,10 +2,6 @@ body.index {
   .container {
     max-width: 400px;
     margin: 0 auto;
-
-    // @include media-query($on-laptop) {
-    //   margin: 0;
-    // }
   }
 
   a {
