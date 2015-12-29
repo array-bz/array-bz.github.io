@@ -1,4 +1,6 @@
 header.site {
+  $stickman-size: 50px;
+
   position: relative;
   top: 0;
   left: 0;
@@ -9,6 +11,8 @@ header.site {
   font-size: 1.25em;
   overflow: hidden;
   white-space: nowrap;
+  height: $stickman-size;
+
 
   .bars {
     letter-spacing: -1px;
@@ -16,6 +20,17 @@ header.site {
 
   a {
     color: $text-color;
+  }
+
+  .stickman {
+    display: inline-block;
+    width: $stickman-size;
+    height: $stickman-size;
+    z-index: 10000000;
+    background-image: url("/images/stickman-120.png");
+    background-size: $stickman-size $stickman-size;
+    background-repeat: no-repeat;
+    background-position: left;
   }
 }
 
