@@ -103,12 +103,6 @@ h2 {
 a {
   color: $link-color;
   text-decoration: none;
-
-  &[target="blank"]::after {
-    content: "  ↱";
-    font-size: 0.65em;
-    vertical-align: super;
-  }
 }
 
 

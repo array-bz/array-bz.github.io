@@ -6,6 +6,12 @@ body.index {
 
   a {
     color: $text-color;
+
+    &[target="blank"]::after {
+      content: "  ↱";
+      font-size: 0.65em;
+      vertical-align: super;
+    }
   }
 
   h2 {
@@ -24,5 +30,19 @@ body.index {
   li {
     list-style: none;
     margin: 5px 0;
+
+    &.posts {
+      li {
+        font-style: italic;
+      }
+    }
+
+    &.projects {
+      li .about {
+        font-size: 0.85em;
+        font-style: italic;
+        margin: 5px $spacing-unit;
+      }
+    }
   }
 }

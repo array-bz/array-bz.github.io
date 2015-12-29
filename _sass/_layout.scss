@@ -3,7 +3,7 @@ header.site {
   top: 0;
   left: 0;
   text-transform: uppercase;
-  font-weight: 400;
+  font-weight: 300;
   margin-top: $spacing-unit;
   margin-bottom: $spacing-unit * 2;
   font-size: 1.25em;
@@ -12,7 +12,6 @@ header.site {
 
   .bars {
     letter-spacing: -1px;
-    font-weight: 300;
   }
 
   a {
