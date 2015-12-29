@@ -17,13 +17,16 @@ header.site {
   a {
     color: $text-color;
   }
-
-  @include media-query($on-palm) {
-    text-align: center;
-  }
 }
 
+article.post {
+  margin: 0 auto;
+  max-width: 500px;
 
+  @include media-query($on-palm) {
+    margin: 0;
+  }
+}
 
 footer.site {
   text-align: center;
