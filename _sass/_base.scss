@@ -141,7 +141,7 @@ pre {
   max-width: 600px;
   margin: 0 auto;
 
-  @include media-query($on-laptop) {
+  @include media-query($on-palm) {
     max-width: none;
     margin: 0;
   }

@@ -1,8 +1,23 @@
 header.site {
+  position: relative;
+  top: 0;
+  left: 0;
   text-transform: uppercase;
   font-weight: 400;
   margin-top: $spacing-unit;
   margin-bottom: $spacing-unit * 2;
+  font-size: 1.25em;
+  overflow: hidden;
+  white-space: nowrap;
+
+  .bars {
+    letter-spacing: -1px;
+    font-weight: 300;
+  }
+
+  @include media-query($on-palm) {
+    text-align: center;
+  }
 }
 
 
