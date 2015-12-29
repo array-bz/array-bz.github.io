@@ -1,23 +1,36 @@
 ---
 layout: default
+class: index
 ---
-
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
+<div class="container">
+  <ul>
+    <li><a target="blank" href="https://github.com/sjltaylor">Github</a></li>
+    <li><a target="blank" href="https://twitter.com/sjltaylor">Twitter</a></li>
+    <li>Email</li>
+    <li><h2>Posts</h2>
+      <ul>
+        {% for post in site.posts limit:5 %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </li>
+    <li><h2>Projects</h2>
+      <ul>
+        <li><a target="blank" href="http://projectionist.array.bz">Projectionist</a></li>
+        <li><a target="blank" href="https://github.com/sjltaylor/blobject">Blobject</a></li>
+      </ul>
+    </li>
+    <li><h2>Work</h2>
+      <ul>
+        <li><a target="blank" href="https://www.linkedin.com/in/samjltaylor">LinkedIn</a></li>
+        <li>CV</li>
+        <li><a href="/skills.html">Skills</a></li>
+        <li><a href="/manifesto.html">Manifesto</a></li>
+      </ul>
+    </li>
+    <li><h2>Status</h2>
+      <pre>Not available for work.
+Check back in January 2016.</pre>
+    </li>
   </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
 </div>
