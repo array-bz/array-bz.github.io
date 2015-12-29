@@ -5,12 +5,25 @@ body.index {
   }
 
   a {
+    position: relative;
     color: $text-color;
 
     &[target="blank"]::after {
       content: "  ↱";
       font-size: 0.65em;
       vertical-align: super;
+    }
+
+    &.readable.unread {
+      &::after {
+        content: "*";
+        position: absolute;
+        top: -0.5em;
+        font-variant: normal;
+        color: red;
+        font-size: 1.5em;
+        z-index: -1000;
+      }
     }
   }
 
