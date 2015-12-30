@@ -1,0 +1,63 @@
+---
+layout: post
+title:  "Decentralization for Better UX"
+date:   2015-11-01
+---
+
+Computing extends the human behavior which has evolved as a system of cooperating individuals.
+In the current topology of the internet, individuals do not have a single node, or center of control.
+Typically, their domain is fragmented across different organizations. Email from Gmail, social form Facebook, file storage from Dropbox etc.
+
+
+Each vendors application exists largely in an ecosystem of its own, which tempts a vendors to offer breadth of products instead of depth.
+The vendors of tools are made responsible for users behaviour; Twitter, Facebook, Google etc. are compelled to police users of their systems in a way that walkie-talkie manufacturers are not.
+
+
+Interactions between systems is limited to what vendors of those systems implement.
+There lacks a standard vocabulary, for which there is not much incentive to develop when vendors can extend their own world model without time-consuming collaboration.
+
+
+This mismatch between the model of computing and the topology of the world creates a conceptual debt.
+If users data was always within the users domain, organizations would need to forgo control of data in favor of the development of IP as a way to protect their business and a shared the acute need for a shared vocabulary would emerge.
+The value of a user is commonly their data. If the data were in the users domain, companies would instead make money by making better tools.
+
+
+Mobile devices are described as The Sun(http://ben-evans.com/benedictevans/2015/5/13/the-smartphone-and-the-sun), in a solar system system of devices and applications.
+Their provide cyborg-like capabilities that augment and expedite the behaviors of an individual.
+They are the device best positioned to facilitate autonomy.
+But they don't host an individuals services. That's a missing piece.
+Everyone has their own set of applications and services.
+Until they become a network of applications and services, they're in a similar position to PCs before the internet.
+
+
+## Appendix of related projects and talks
+
+<ul>
+  <li><a target="blank" href="https://arkos.io/">https://arkos.io/</a></li>
+  <li><a target="blank" href="https://diasporafoundation.org">https://diasporafoundation.org</a></li>
+  <li><a target="blank" href="https://oniontip.com/#?exit_filter=all_relays&links&sort=cw&sort_reverse&country=+">https://oniontip.com/#?exit_filter=all_relays&links&sort=cw&sort_reverse&country=+</a></li>
+  <li><a target="blank" href="http://jeff.noxon.cc/2014/10/28/replacing-dropbox-with-bittorrent-sync/">http://jeff.noxon.cc/2014/10/28/replacing-dropbox-with-bittorrent-sync/</a></li>
+  <li><a target="blank" href="https://openbazaar.org">https://openbazaar.org</a></li>
+  <li><a target="blank" href="http://www.fp7-pursuit.eu/PursuitWeb/">http://www.fp7-pursuit.eu/PursuitWeb/</a></li>
+  <li><a target="blank" href="http://shanereustle.com/blog/btsync-pi/">http://shanereustle.com/blog/btsync-pi/</a></li>
+  <li><a target="blank" href="https://www.mailpile.is">https://www.mailpile.is</a></li>
+  <li><a target="blank" href="http://flurdy.com/docs/postfix/">http://flurdy.com/docs/postfix/</a></li>
+  <li><a target="blank" href="http://owncloud.org/">http://owncloud.org/</a></li>
+  <li><a target="blank" href="http://yacy.net/en/index.html">http://yacy.net/en/index.html</a></li>
+  <li><a target="blank" href="http://radar.oreilly.com/2014/12/wouldnt-it-be-fun-to-build-your-own-google.html">http://radar.oreilly.com/2014/12/wouldnt-it-be-fun-to-build-your-own-google.html</a></li>
+  <li><a target="blank" href="https://sandstorm.io/">https://sandstorm.io/</a></li>
+  <li><a target="blank" href="http://paperwork.rocks">http://paperwork.rocks</a></li>
+  <li><a target="blank" href="https://www.indietech.org">https://www.indietech.org</a></li>
+  <li><a target="blank" href="https://ind.ie/about/vision/">https://ind.ie/about/vision/</a></li>
+  <li><a target="blank" href="https://vimeo.com/93176515">https://vimeo.com/93176515</a></li>
+  <li><a target="blank" href="https://aralbalkan.com/notes/2014-the-rise-of-indie-tech/">https://aralbalkan.com/notes/2014-the-rise-of-indie-tech/</a></li>
+  <li><a target="blank" href="https://ghost.org">https://ghost.org</a></li>
+  <li><a target="blank" href="http://www.forbes.com/sites/thomasbrewster/2015/04/17/darpa-nasa-and-partners-show-off-memex/">http://www.forbes.com/sites/thomasbrewster/2015/04/17/darpa-nasa-and-partners-show-off-memex/</a></li>
+  <li><a target="blank" href="https://www.ethereum.org">https://www.ethereum.org</a></li>
+  <li><a target="blank" href="https://kallithea-scm.org">https://kallithea-scm.org</a></li>
+  <li><a target="blank" href="http://www.wired.com/2015/03/inside-popcorn-time-piracy-party-hollywood-cant-stop/">http://www.wired.com/2015/03/inside-popcorn-time-piracy-party-hollywood-cant-stop/</a></li>
+  <li><a target="blank" href="https://github.com/ipfs/ipfs">https://github.com/ipfs/ipfs</a></li>
+  <li><a target="blank" href="http://en.m.wikipedia.org/wiki/Decentralized_Autonomous_Organization">http://en.m.wikipedia.org/wiki/Decentralized_Autonomous_Organization</a></li>
+  <li><a target="blank" href="http://matrix.org/">http://matrix.org/</a></li>
+  <li><a target="blank" href="http://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/">http://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/</a></li>
+</ul>
