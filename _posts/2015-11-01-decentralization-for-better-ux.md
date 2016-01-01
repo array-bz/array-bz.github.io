@@ -6,7 +6,7 @@ date:   2015-11-01
 
 Computing extends the human behavior which has evolved as a system of cooperating individuals.
 In the current topology of the internet, individuals do not have a single node, or center of control.
-Typically, their domain is fragmented across different organizations. Email from Gmail, social form Facebook, file storage from Dropbox etc.
+Typically, their domain is fragmented across different organizations. Email from Gmail, social from Facebook, file storage from Dropbox etc.
 
 
 Each vendors application exists largely in an ecosystem of its own, which tempts a vendors to offer breadth of products instead of depth.
