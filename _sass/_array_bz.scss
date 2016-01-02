@@ -8,12 +8,6 @@ body.index {
     position: relative;
     color: $text-color;
 
-    &[target="blank"]::after {
-      content: "  ↱";
-      font-size: 0.65em;
-      vertical-align: super;
-    }
-
     &.readable.unread {
       &::after {
         content: "*";
