@@ -9,16 +9,16 @@ In the current topology of the internet, individuals do not have a single node, 
 Typically, their domain is fragmented across different organizations. Email from Gmail, social from Facebook, file storage from Dropbox etc.
 
 
-Each vendors application exists largely in an ecosystem of its own, which tempts a vendors to offer breadth of products instead of depth.
+Each vendors applications exist largely in an ecosystem of its own, which tempts a vendors to offer breadth of offerings instead of depth of behavior.
 The vendors of tools are made responsible for users behaviour; Twitter, Facebook, Google etc. are compelled to police users of their systems in a way that walkie-talkie manufacturers are not.
 
 
 Interactions between systems is limited to what vendors of those systems implement.
-There lacks a standard vocabulary, for which there is not much incentive to develop when vendors can extend their own world model without time-consuming collaboration.
+There lacks a standard vocabulary, for which there is not much incentive to develop when vendors can extend their own world model without waiting for standards.
 
 
 This mismatch between the model of computing and the topology of the world creates a conceptual debt.
-If users data was always within the users domain, organizations would need to forgo control of data in favor of the development of IP as a way to protect their business and a shared the acute need for a shared vocabulary would emerge.
+If users data was always within the users domain, organizations would need to forgo control of data in favor of the development of IP as a way to establish their business. An mutual need would emerge between vendors for open standards.
 The value of a user is commonly their data. If the data were in the users domain, companies would instead make money by making better tools.
 
 
