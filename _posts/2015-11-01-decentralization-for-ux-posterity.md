@@ -1,34 +1,15 @@
 ---
 layout: post
-title:  "Decentralization for Better UX"
+title:  "Decentralization for UX Posterity"
 date:   2015-11-01
 ---
 
-Computing extends the human behavior which has evolved as a system of cooperating individuals.
-In the current topology of the internet, individuals do not have a single node, or center of control.
-Typically, their domain is fragmented across different organizations. Email from Gmail, social from Facebook, file storage from Dropbox etc.
+Mobile devices are described as [The Sun](http://ben-evans.com/benedictevans/2015/5/13/the-smartphone-and-the-sun) in a solar system system of devices and applications. They provide cyborg-like extensions to our capabilities. Topologically they are the best reflection of an individual in a society, but they only host a subset of the digital functionality we need to operate: apps. They don't host your _services_.
 
+Instead of a server on which you install an email service, file-sync service and news feed, the users digital domain is typically fragmented across services from many organizations: Email from Gmail, file storage from Dropbox, social from Facebook.
 
-Each vendors applications exist largely in an ecosystem of its own, which tempts a vendors to offer breadth of offerings instead of depth of behavior.
-The vendors of tools are made responsible for users behaviour; Twitter, Facebook, Google etc. are compelled to police users of their systems in a way that walkie-talkie manufacturers are not.
-
-
-Interactions between systems is limited to what vendors of those systems implement.
-There lacks a standard vocabulary, for which there is not much incentive to develop when vendors can extend their own world model without waiting for standards.
-
-
-This mismatch between the model of computing and the topology of the world creates a conceptual debt.
-If users data was always within the users domain, organizations would need to forgo control of data in favor of the development of IP as a way to establish their business. An mutual need would emerge between vendors for open standards.
-The value of a user is commonly their data. If the data were in the users domain, companies would instead make money by making better tools.
-
-
-Mobile devices are described as The Sun(http://ben-evans.com/benedictevans/2015/5/13/the-smartphone-and-the-sun), in a solar system system of devices and applications.
-Their provide cyborg-like capabilities that augment and expedite the behaviors of an individual.
-They are the device best positioned to facilitate autonomy.
-But they don't host an individuals services. That's a missing piece.
-Everyone has their own set of applications and services.
-Until they become a network of applications and services, they're in a similar position to PCs before the internet.
-
+This represents a conceptual debt and a misalignment of incentive.
+The incentive for services providers to interoperate has to overcome a crossing of commercial and organizational boundaries. The result, is that it's quicker to build a walled garden with everything a user needs inside. But this system is as closed as the PC was before the internet, which means there is a great deal of value left to be realized in a heterogenous network of applications and services.
 
 ## Appendix of related projects and talks
 
